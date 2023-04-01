@@ -52,7 +52,7 @@ Contributions are welcome. Please open an issue or submit a pull request if you 
 
 ## Authors
 
-Aryan Bajaj - Initial work
+- **Aryan Bajaj** - Initial work
 
 ## License
 
